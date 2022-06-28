@@ -25,7 +25,7 @@ In order to compete with other e-commerce companies, this back end E-commerce ap
 - mySQL
 
 Screencastify link provided below:
-[Screencastify link]()
+[Screencastify link](https://drive.google.com/file/d/1xPIkNFsDCSKHqja8ppmiDzWBHB6yPS8Y/view)
 
 ## Contributions
 There are no contributors in this application.
