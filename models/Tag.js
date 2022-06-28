@@ -4,9 +4,9 @@ const sequelize = require('../config/connection.js');
 
 class Tag extends Model {}
 
+// Sets up fields and rules for Tag model
 Tag.init(
   {
-    // define columns
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -26,4 +26,5 @@ Tag.init(
   }
 );
 
+// Exports class
 module.exports = Tag;
